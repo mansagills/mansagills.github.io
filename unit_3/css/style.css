@@ -1,0 +1,11 @@
+body {
+text-align: center;
+background-color: #616968;
+background-image: url("darkangel.jpg");
+background-size: cover;
+font-family: Helvetica;
+
+}
+p {
+	font-size: 25px;
+}
